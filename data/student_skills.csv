@@ -1,0 +1,802 @@
+skill_id,student_id,skill_name,proficiency,recruiter_demand
+1,1,SQL,77,84
+2,1,Tableau,83,65
+3,1,Cloud Basics,46,52
+4,2,React,51,56
+5,2,SQL,67,84
+6,2,Cloud Basics,67,52
+7,2,Tableau,83,65
+8,3,Python,50,88
+9,3,Tableau,59,65
+10,3,Java,51,61
+11,4,Power BI,85,72
+12,4,Excel,89,74
+13,4,Machine Learning,80,59
+14,4,Communication,59,80
+15,5,Excel,61,74
+16,5,Machine Learning,53,59
+17,5,Communication,60,80
+18,5,SQL,92,84
+19,6,Power BI,69,72
+20,6,Machine Learning,83,59
+21,6,SQL,74,84
+22,6,Tableau,78,65
+23,7,Cloud Basics,64,52
+24,7,Power BI,85,72
+25,7,SQL,77,84
+26,7,Machine Learning,83,59
+27,7,React,57,56
+28,8,Python,91,88
+29,8,Tableau,76,65
+30,8,SQL,49,84
+31,8,Communication,93,80
+32,9,Java,78,61
+33,9,Machine Learning,73,59
+34,9,React,52,56
+35,9,Tableau,60,65
+36,10,SQL,76,84
+37,10,Cloud Basics,58,52
+38,10,Tableau,79,65
+39,10,Power BI,53,72
+40,10,React,91,56
+41,11,SQL,91,84
+42,11,Python,66,88
+43,11,Machine Learning,51,59
+44,12,Python,50,88
+45,12,Cloud Basics,93,52
+46,12,Communication,60,80
+47,13,Excel,95,74
+48,13,Java,80,61
+49,13,Machine Learning,87,59
+50,13,React,90,56
+51,13,Communication,76,80
+52,14,Python,56,88
+53,14,Cloud Basics,49,52
+54,14,SQL,83,84
+55,14,Machine Learning,49,59
+56,15,Java,70,61
+57,15,Tableau,53,65
+58,15,React,87,56
+59,15,SQL,86,84
+60,15,Power BI,64,72
+61,16,React,79,56
+62,16,Java,90,61
+63,16,Power BI,64,72
+64,16,Tableau,84,65
+65,17,React,76,56
+66,17,Tableau,61,65
+67,17,Java,48,61
+68,17,Excel,50,74
+69,18,Cloud Basics,79,52
+70,18,Python,47,88
+71,18,SQL,68,84
+72,18,Communication,82,80
+73,18,React,80,56
+74,18,Excel,54,74
+75,19,Cloud Basics,56,52
+76,19,Machine Learning,71,59
+77,19,Power BI,46,72
+78,19,SQL,56,84
+79,19,Communication,92,80
+80,20,Python,62,88
+81,20,Tableau,49,65
+82,20,Machine Learning,94,59
+83,20,Power BI,62,72
+84,21,React,69,56
+85,21,Communication,81,80
+86,21,Machine Learning,57,59
+87,21,Java,61,61
+88,21,Excel,47,74
+89,21,Python,90,88
+90,22,Java,87,61
+91,22,Cloud Basics,71,52
+92,22,Communication,65,80
+93,23,Java,72,61
+94,23,Communication,95,80
+95,23,Tableau,82,65
+96,24,SQL,54,84
+97,24,Tableau,46,65
+98,24,Java,47,61
+99,24,Communication,60,80
+100,24,Machine Learning,75,59
+101,25,SQL,56,84
+102,25,Machine Learning,89,59
+103,25,Tableau,78,65
+104,26,Cloud Basics,61,52
+105,26,Excel,93,74
+106,26,Power BI,60,72
+107,26,React,85,56
+108,26,Tableau,62,65
+109,26,Machine Learning,94,59
+110,27,Machine Learning,71,59
+111,27,Power BI,71,72
+112,27,Tableau,66,65
+113,27,Python,79,88
+114,28,Machine Learning,62,59
+115,28,Communication,72,80
+116,28,Tableau,76,65
+117,28,Excel,46,74
+118,28,SQL,69,84
+119,29,Excel,69,74
+120,29,Power BI,65,72
+121,29,Python,58,88
+122,29,Cloud Basics,74,52
+123,30,SQL,57,84
+124,30,Python,46,88
+125,30,Cloud Basics,84,52
+126,30,Communication,54,80
+127,31,Power BI,82,72
+128,31,Java,46,61
+129,31,SQL,64,84
+130,32,Communication,79,80
+131,32,Python,72,88
+132,32,React,87,56
+133,33,Power BI,84,72
+134,33,Machine Learning,79,59
+135,33,Communication,94,80
+136,33,React,75,56
+137,33,Java,74,61
+138,33,Excel,72,74
+139,34,Excel,76,74
+140,34,React,58,56
+141,34,Power BI,67,72
+142,35,Excel,70,74
+143,35,Communication,89,80
+144,35,Python,60,88
+145,35,Cloud Basics,64,52
+146,35,Power BI,87,72
+147,35,SQL,82,84
+148,36,React,58,56
+149,36,SQL,92,84
+150,36,Power BI,75,72
+151,36,Cloud Basics,62,52
+152,37,Cloud Basics,47,52
+153,37,Power BI,48,72
+154,37,Java,80,61
+155,38,Python,49,88
+156,38,Java,70,61
+157,38,Excel,76,74
+158,38,Communication,49,80
+159,39,Communication,82,80
+160,39,Tableau,72,65
+161,39,Machine Learning,64,59
+162,39,Cloud Basics,81,52
+163,39,Excel,84,74
+164,39,Power BI,48,72
+165,40,Communication,90,80
+166,40,Excel,63,74
+167,40,Java,89,61
+168,40,Python,74,88
+169,40,SQL,49,84
+170,40,Power BI,88,72
+171,41,Power BI,73,72
+172,41,Java,52,61
+173,41,Cloud Basics,74,52
+174,42,Tableau,81,65
+175,42,Python,47,88
+176,42,Java,93,61
+177,43,SQL,76,84
+178,43,Power BI,63,72
+179,43,React,87,56
+180,43,Tableau,70,65
+181,43,Excel,93,74
+182,44,Machine Learning,93,59
+183,44,Python,76,88
+184,44,Tableau,85,65
+185,44,Java,73,61
+186,44,Power BI,93,72
+187,44,Communication,48,80
+188,45,Java,71,61
+189,45,Cloud Basics,50,52
+190,45,Python,59,88
+191,45,Communication,52,80
+192,46,Machine Learning,49,59
+193,46,Tableau,62,65
+194,46,Power BI,94,72
+195,46,Communication,95,80
+196,47,React,89,56
+197,47,Communication,60,80
+198,47,Machine Learning,81,59
+199,47,Tableau,69,65
+200,47,Power BI,59,72
+201,47,SQL,94,84
+202,48,SQL,45,84
+203,48,Excel,91,74
+204,48,Communication,54,80
+205,48,Java,71,61
+206,48,Tableau,86,65
+207,49,Cloud Basics,59,52
+208,49,Python,92,88
+209,49,SQL,50,84
+210,49,Excel,72,74
+211,49,React,51,56
+212,49,Power BI,93,72
+213,50,React,71,56
+214,50,Machine Learning,81,59
+215,50,Power BI,88,72
+216,50,SQL,95,84
+217,50,Java,56,61
+218,51,Python,55,88
+219,51,Excel,49,74
+220,51,Java,73,61
+221,51,React,67,56
+222,51,Cloud Basics,82,52
+223,52,Communication,70,80
+224,52,Java,62,61
+225,52,Cloud Basics,45,52
+226,52,Python,81,88
+227,52,React,88,56
+228,53,SQL,73,84
+229,53,Python,47,88
+230,53,Java,82,61
+231,53,Machine Learning,68,59
+232,54,Java,66,61
+233,54,Excel,52,74
+234,54,Communication,74,80
+235,54,React,49,56
+236,55,Communication,59,80
+237,55,Machine Learning,75,59
+238,55,React,46,56
+239,55,Python,84,88
+240,55,Excel,80,74
+241,56,Excel,53,74
+242,56,SQL,69,84
+243,56,Cloud Basics,74,52
+244,56,Communication,68,80
+245,56,Java,87,61
+246,57,React,73,56
+247,57,Tableau,60,65
+248,57,Excel,68,74
+249,58,Tableau,95,65
+250,58,Python,66,88
+251,58,Cloud Basics,60,52
+252,59,Communication,54,80
+253,59,Python,53,88
+254,59,Java,79,61
+255,59,Machine Learning,61,59
+256,60,Machine Learning,49,59
+257,60,Cloud Basics,75,52
+258,60,SQL,73,84
+259,60,React,94,56
+260,61,Python,72,88
+261,61,Excel,88,74
+262,61,Machine Learning,51,59
+263,62,Communication,72,80
+264,62,Cloud Basics,51,52
+265,62,Java,95,61
+266,62,Tableau,89,65
+267,62,Excel,52,74
+268,62,React,86,56
+269,63,React,50,56
+270,63,Power BI,50,72
+271,63,Excel,72,74
+272,63,Python,51,88
+273,63,Machine Learning,92,59
+274,64,Java,51,61
+275,64,Communication,81,80
+276,64,React,77,56
+277,65,Communication,56,80
+278,65,Java,62,61
+279,65,Python,89,88
+280,66,SQL,69,84
+281,66,Cloud Basics,71,52
+282,66,Tableau,74,65
+283,67,Excel,71,74
+284,67,Machine Learning,62,59
+285,67,Communication,58,80
+286,67,Java,93,61
+287,67,Tableau,77,65
+288,68,Python,58,88
+289,68,Tableau,94,65
+290,68,Java,53,61
+291,69,SQL,74,84
+292,69,Machine Learning,49,59
+293,69,Python,65,88
+294,69,Tableau,81,65
+295,69,Excel,72,74
+296,70,SQL,82,84
+297,70,Machine Learning,70,59
+298,70,Communication,78,80
+299,70,Excel,50,74
+300,70,Tableau,70,65
+301,71,React,51,56
+302,71,Communication,54,80
+303,71,Power BI,61,72
+304,71,SQL,57,84
+305,72,React,73,56
+306,72,Power BI,85,72
+307,72,Excel,64,74
+308,72,Python,95,88
+309,72,Tableau,62,65
+310,73,SQL,74,84
+311,73,Cloud Basics,82,52
+312,73,Machine Learning,80,59
+313,74,React,47,56
+314,74,SQL,60,84
+315,74,Power BI,90,72
+316,75,SQL,69,84
+317,75,React,63,56
+318,75,Communication,61,80
+319,75,Java,91,61
+320,75,Cloud Basics,87,52
+321,76,Java,86,61
+322,76,Cloud Basics,95,52
+323,76,Machine Learning,66,59
+324,77,Tableau,63,65
+325,77,Power BI,95,72
+326,77,Cloud Basics,51,52
+327,77,Python,77,88
+328,78,Python,73,88
+329,78,Machine Learning,84,59
+330,78,React,63,56
+331,78,Excel,93,74
+332,78,Cloud Basics,92,52
+333,78,SQL,95,84
+334,79,Power BI,86,72
+335,79,Tableau,75,65
+336,79,Communication,68,80
+337,79,Machine Learning,80,59
+338,79,Excel,51,74
+339,79,Python,90,88
+340,80,Tableau,46,65
+341,80,Excel,71,74
+342,80,React,48,56
+343,81,Power BI,89,72
+344,81,Communication,53,80
+345,81,Python,93,88
+346,81,Cloud Basics,90,52
+347,81,Tableau,75,65
+348,82,Java,52,61
+349,82,Tableau,48,65
+350,82,Communication,60,80
+351,83,Python,87,88
+352,83,React,87,56
+353,83,Tableau,50,65
+354,83,Java,78,61
+355,83,Excel,68,74
+356,83,SQL,49,84
+357,84,React,94,56
+358,84,Tableau,82,65
+359,84,SQL,92,84
+360,85,Python,65,88
+361,85,Java,64,61
+362,85,Tableau,77,65
+363,85,Communication,70,80
+364,85,SQL,79,84
+365,85,Machine Learning,75,59
+366,86,Machine Learning,68,59
+367,86,React,78,56
+368,86,Power BI,62,72
+369,86,Tableau,50,65
+370,86,Cloud Basics,91,52
+371,86,Communication,72,80
+372,87,Communication,73,80
+373,87,Machine Learning,47,59
+374,87,Power BI,91,72
+375,87,React,67,56
+376,87,Tableau,84,65
+377,87,Excel,72,74
+378,88,Python,68,88
+379,88,Power BI,69,72
+380,88,SQL,81,84
+381,88,Excel,47,74
+382,88,React,83,56
+383,88,Cloud Basics,54,52
+384,89,Power BI,80,72
+385,89,Excel,52,74
+386,89,Machine Learning,61,59
+387,90,SQL,79,84
+388,90,React,63,56
+389,90,Cloud Basics,64,52
+390,90,Excel,55,74
+391,90,Python,90,88
+392,90,Java,90,61
+393,91,Cloud Basics,53,52
+394,91,React,84,56
+395,91,Excel,50,74
+396,91,Machine Learning,49,59
+397,91,Java,64,61
+398,92,Power BI,72,72
+399,92,Cloud Basics,77,52
+400,92,Communication,48,80
+401,92,Machine Learning,52,59
+402,92,SQL,78,84
+403,93,Power BI,55,72
+404,93,Java,82,61
+405,93,SQL,82,84
+406,93,Cloud Basics,54,52
+407,93,React,55,56
+408,94,Communication,86,80
+409,94,Python,64,88
+410,94,Excel,75,74
+411,94,React,60,56
+412,94,Java,88,61
+413,94,Power BI,70,72
+414,95,Machine Learning,51,59
+415,95,Power BI,65,72
+416,95,React,60,56
+417,95,Java,74,61
+418,95,Communication,52,80
+419,96,Tableau,76,65
+420,96,Power BI,64,72
+421,96,Excel,76,74
+422,96,Java,46,61
+423,96,Communication,50,80
+424,97,Java,53,61
+425,97,Cloud Basics,61,52
+426,97,Python,91,88
+427,97,Machine Learning,68,59
+428,97,Excel,93,74
+429,97,Tableau,70,65
+430,98,Power BI,68,72
+431,98,SQL,95,84
+432,98,Machine Learning,66,59
+433,99,Excel,77,74
+434,99,Cloud Basics,53,52
+435,99,Communication,65,80
+436,99,SQL,84,84
+437,99,Java,65,61
+438,100,SQL,89,84
+439,100,Machine Learning,85,59
+440,100,Java,46,61
+441,100,Cloud Basics,83,52
+442,100,React,75,56
+443,101,Tableau,46,65
+444,101,Python,73,88
+445,101,SQL,65,84
+446,101,Excel,71,74
+447,102,Cloud Basics,66,52
+448,102,Machine Learning,79,59
+449,102,React,67,56
+450,102,SQL,88,84
+451,102,Tableau,94,65
+452,102,Java,91,61
+453,103,Excel,80,74
+454,103,React,95,56
+455,103,Communication,91,80
+456,103,Power BI,62,72
+457,104,React,92,56
+458,104,Excel,75,74
+459,104,Java,58,61
+460,105,Tableau,66,65
+461,105,Python,90,88
+462,105,SQL,75,84
+463,105,Communication,51,80
+464,106,SQL,56,84
+465,106,Tableau,71,65
+466,106,Python,56,88
+467,107,Excel,74,74
+468,107,Cloud Basics,62,52
+469,107,Communication,57,80
+470,107,SQL,52,84
+471,107,Java,66,61
+472,108,Machine Learning,56,59
+473,108,Cloud Basics,53,52
+474,108,React,75,56
+475,108,Python,65,88
+476,108,Tableau,60,65
+477,108,Communication,45,80
+478,109,Excel,70,74
+479,109,Java,88,61
+480,109,Power BI,77,72
+481,110,Machine Learning,87,59
+482,110,Cloud Basics,58,52
+483,110,Excel,93,74
+484,110,Communication,60,80
+485,110,Java,88,61
+486,111,Power BI,88,72
+487,111,React,58,56
+488,111,Excel,90,74
+489,111,Python,82,88
+490,112,Machine Learning,92,59
+491,112,Java,58,61
+492,112,Python,82,88
+493,113,React,50,56
+494,113,Machine Learning,88,59
+495,113,Excel,87,74
+496,113,Cloud Basics,79,52
+497,113,Tableau,53,65
+498,113,Communication,86,80
+499,114,Excel,59,74
+500,114,Cloud Basics,60,52
+501,114,Machine Learning,74,59
+502,114,Java,67,61
+503,114,Tableau,54,65
+504,115,Tableau,73,65
+505,115,Python,59,88
+506,115,Machine Learning,79,59
+507,116,Machine Learning,80,59
+508,116,Java,82,61
+509,116,Cloud Basics,92,52
+510,116,Python,56,88
+511,117,Power BI,90,72
+512,117,Cloud Basics,54,52
+513,117,Excel,74,74
+514,117,SQL,48,84
+515,117,Machine Learning,80,59
+516,117,Communication,71,80
+517,118,Python,83,88
+518,118,Java,83,61
+519,118,Machine Learning,47,59
+520,118,React,49,56
+521,119,Excel,70,74
+522,119,Tableau,60,65
+523,119,Cloud Basics,80,52
+524,120,React,81,56
+525,120,Tableau,59,65
+526,120,Communication,92,80
+527,120,Power BI,54,72
+528,120,Cloud Basics,46,52
+529,120,Python,61,88
+530,121,Java,91,61
+531,121,Excel,95,74
+532,121,Cloud Basics,67,52
+533,121,Tableau,55,65
+534,121,SQL,53,84
+535,122,Python,85,88
+536,122,Machine Learning,59,59
+537,122,Power BI,49,72
+538,123,Cloud Basics,45,52
+539,123,Communication,46,80
+540,123,Machine Learning,78,59
+541,124,Communication,67,80
+542,124,Cloud Basics,62,52
+543,124,Java,95,61
+544,124,Machine Learning,70,59
+545,125,Cloud Basics,50,52
+546,125,Excel,76,74
+547,125,Python,72,88
+548,125,React,86,56
+549,125,Communication,95,80
+550,125,SQL,66,84
+551,126,Power BI,58,72
+552,126,React,82,56
+553,126,Python,54,88
+554,127,SQL,51,84
+555,127,Cloud Basics,72,52
+556,127,React,59,56
+557,127,Python,49,88
+558,128,Machine Learning,60,59
+559,128,Power BI,90,72
+560,128,Communication,49,80
+561,128,Python,50,88
+562,128,Java,62,61
+563,128,Cloud Basics,54,52
+564,129,SQL,73,84
+565,129,Power BI,80,72
+566,129,Communication,80,80
+567,129,Excel,77,74
+568,129,Tableau,71,65
+569,130,Communication,69,80
+570,130,Cloud Basics,55,52
+571,130,Power BI,53,72
+572,130,React,62,56
+573,131,Communication,45,80
+574,131,Tableau,70,65
+575,131,Excel,66,74
+576,131,Python,84,88
+577,131,SQL,69,84
+578,131,Power BI,66,72
+579,132,Communication,68,80
+580,132,Tableau,52,65
+581,132,React,81,56
+582,132,Cloud Basics,57,52
+583,132,Power BI,82,72
+584,132,Machine Learning,79,59
+585,133,Power BI,90,72
+586,133,Java,72,61
+587,133,Tableau,95,65
+588,133,Communication,69,80
+589,133,React,49,56
+590,133,SQL,73,84
+591,134,Tableau,86,65
+592,134,React,84,56
+593,134,Power BI,47,72
+594,135,Excel,94,74
+595,135,React,88,56
+596,135,Machine Learning,82,59
+597,135,Tableau,89,65
+598,136,React,67,56
+599,136,Excel,75,74
+600,136,Tableau,51,65
+601,136,Java,73,61
+602,136,Cloud Basics,91,52
+603,137,Tableau,55,65
+604,137,Cloud Basics,66,52
+605,137,Power BI,80,72
+606,137,Java,72,61
+607,138,Python,81,88
+608,138,Tableau,51,65
+609,138,Cloud Basics,79,52
+610,138,Power BI,56,72
+611,138,React,68,56
+612,138,Communication,65,80
+613,139,Excel,50,74
+614,139,Power BI,88,72
+615,139,Java,53,61
+616,139,Communication,65,80
+617,139,Machine Learning,52,59
+618,140,Cloud Basics,53,52
+619,140,Power BI,56,72
+620,140,Excel,65,74
+621,140,Communication,73,80
+622,141,Power BI,47,72
+623,141,SQL,62,84
+624,141,Python,59,88
+625,141,Machine Learning,79,59
+626,141,Cloud Basics,63,52
+627,141,Communication,55,80
+628,142,Cloud Basics,64,52
+629,142,Tableau,47,65
+630,142,Machine Learning,73,59
+631,142,Python,61,88
+632,142,React,67,56
+633,142,SQL,50,84
+634,143,Tableau,62,65
+635,143,Python,83,88
+636,143,React,79,56
+637,143,Java,55,61
+638,144,Power BI,65,72
+639,144,Tableau,60,65
+640,144,Communication,93,80
+641,144,React,88,56
+642,145,React,45,56
+643,145,Excel,94,74
+644,145,Cloud Basics,91,52
+645,145,Power BI,50,72
+646,145,Java,91,61
+647,146,Communication,93,80
+648,146,Excel,48,74
+649,146,React,47,56
+650,146,Cloud Basics,51,52
+651,147,Java,86,61
+652,147,Power BI,68,72
+653,147,Communication,61,80
+654,147,Python,50,88
+655,148,Excel,59,74
+656,148,SQL,78,84
+657,148,Power BI,88,72
+658,148,Java,73,61
+659,149,React,53,56
+660,149,Communication,69,80
+661,149,Java,94,61
+662,150,Communication,93,80
+663,150,Excel,52,74
+664,150,Tableau,82,65
+665,150,Python,91,88
+666,150,Machine Learning,69,59
+667,150,SQL,67,84
+668,151,Java,92,61
+669,151,Tableau,70,65
+670,151,Cloud Basics,63,52
+671,152,Machine Learning,88,59
+672,152,Communication,56,80
+673,152,React,93,56
+674,152,Java,75,61
+675,153,Machine Learning,84,59
+676,153,Communication,54,80
+677,153,SQL,62,84
+678,153,React,50,56
+679,153,Java,64,61
+680,153,Cloud Basics,50,52
+681,154,Python,52,88
+682,154,Tableau,74,65
+683,154,SQL,84,84
+684,154,Cloud Basics,83,52
+685,155,Power BI,91,72
+686,155,React,52,56
+687,155,Communication,94,80
+688,155,Cloud Basics,46,52
+689,155,Excel,66,74
+690,156,React,51,56
+691,156,Power BI,81,72
+692,156,Java,88,61
+693,156,Machine Learning,91,59
+694,157,Power BI,65,72
+695,157,Python,60,88
+696,157,Machine Learning,71,59
+697,157,SQL,91,84
+698,158,Java,45,61
+699,158,Communication,68,80
+700,158,React,57,56
+701,158,Python,63,88
+702,158,Cloud Basics,81,52
+703,158,Tableau,95,65
+704,159,Tableau,85,65
+705,159,Cloud Basics,89,52
+706,159,React,45,56
+707,160,Tableau,89,65
+708,160,Cloud Basics,68,52
+709,160,Machine Learning,74,59
+710,161,Machine Learning,59,59
+711,161,React,49,56
+712,161,Cloud Basics,57,52
+713,161,Tableau,53,65
+714,161,Power BI,94,72
+715,162,Excel,52,74
+716,162,Java,50,61
+717,162,Communication,55,80
+718,162,Power BI,88,72
+719,163,Java,80,61
+720,163,Power BI,92,72
+721,163,Python,80,88
+722,163,Tableau,60,65
+723,163,Machine Learning,51,59
+724,164,Communication,46,80
+725,164,Java,49,61
+726,164,SQL,57,84
+727,165,Machine Learning,56,59
+728,165,Excel,67,74
+729,165,Python,58,88
+730,165,Tableau,56,65
+731,165,React,62,56
+732,165,Communication,62,80
+733,166,Machine Learning,78,59
+734,166,Power BI,60,72
+735,166,Communication,85,80
+736,166,SQL,79,84
+737,166,React,95,56
+738,167,Python,75,88
+739,167,Java,78,61
+740,167,Communication,67,80
+741,167,Machine Learning,94,59
+742,168,Power BI,92,72
+743,168,Communication,89,80
+744,168,Tableau,67,65
+745,168,Java,82,61
+746,168,Cloud Basics,46,52
+747,169,Python,66,88
+748,169,Cloud Basics,84,52
+749,169,Excel,57,74
+750,169,Communication,53,80
+751,170,SQL,66,84
+752,170,React,64,56
+753,170,Machine Learning,65,59
+754,170,Java,53,61
+755,170,Python,55,88
+756,171,Java,89,61
+757,171,Power BI,81,72
+758,171,Cloud Basics,70,52
+759,171,React,94,56
+760,171,Python,81,88
+761,172,React,50,56
+762,172,Communication,90,80
+763,172,Power BI,87,72
+764,172,Cloud Basics,85,52
+765,173,Python,73,88
+766,173,Communication,91,80
+767,173,Machine Learning,71,59
+768,174,Power BI,47,72
+769,174,Excel,63,74
+770,174,SQL,46,84
+771,174,Machine Learning,65,59
+772,175,Python,48,88
+773,175,Machine Learning,51,59
+774,175,Power BI,66,72
+775,175,Java,58,61
+776,175,Tableau,57,65
+777,175,SQL,71,84
+778,176,Machine Learning,87,59
+779,176,SQL,85,84
+780,176,Java,83,61
+781,177,SQL,69,84
+782,177,Cloud Basics,68,52
+783,177,Machine Learning,56,59
+784,177,Communication,73,80
+785,177,Power BI,47,72
+786,178,Communication,71,80
+787,178,Tableau,79,65
+788,178,Python,88,88
+789,178,Machine Learning,75,59
+790,178,Cloud Basics,81,52
+791,178,Java,60,61
+792,179,Power BI,47,72
+793,179,Tableau,72,65
+794,179,Cloud Basics,50,52
+795,179,SQL,88,84
+796,180,Python,54,88
+797,180,Cloud Basics,81,52
+798,180,Machine Learning,82,59
+799,180,Communication,82,80
+800,180,Tableau,93,65
+801,180,SQL,51,84

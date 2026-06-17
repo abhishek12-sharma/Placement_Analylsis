@@ -1,0 +1,11 @@
+company_id,company_name,industry,role_offered,package_lpa,drive_month,min_cgpa,preferred_branch,openings,selection_difficulty,aptitude_cutoff,communication_cutoff
+1,Infosys,IT Services,Software Engineer,6.5,January,6.5,Any,40,45,58,55
+2,TCS,Consulting,System Analyst,5.8,February,6.0,Any,55,40,55,55
+3,Accenture,Technology,Data Analyst,7.2,February,7.0,MCA,28,58,65,62
+4,Wipro,IT Services,Cloud Associate,6.8,March,6.4,Any,35,50,60,58
+5,Deloitte,Consulting,Business Analyst,8.5,March,7.2,Any,18,67,70,72
+6,Capgemini,Technology,Developer Analyst,6.2,April,6.2,Any,38,44,55,56
+7,Cognizant,IT Services,Programmer Analyst,5.9,April,6.0,Any,45,42,54,54
+8,Amazon,E-Commerce,Data Engineer Intern,14.0,May,8.0,B.Tech CSE,8,88,82,78
+9,HCLTech,IT Services,Software Trainee,5.4,May,6.0,Any,32,38,52,52
+10,Tech Mahindra,Telecom IT,Associate Engineer,5.6,June,6.0,Any,30,41,52,54

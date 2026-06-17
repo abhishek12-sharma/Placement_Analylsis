@@ -1,0 +1,4 @@
+user_id,name,mobile,role,linked_student_id
+1,Admin User,9999999999,admin,
+2,Demo Student,8888888888,student,1
+3,Placement Officer,7777777777,placement_officer,

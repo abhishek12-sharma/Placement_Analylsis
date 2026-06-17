@@ -1,0 +1,181 @@
+placement_id,student_id,company_id,placement_year,package_lpa,status,joining_status
+1,1,2.0,2024,6.84,Placed,Joined
+2,2,7.0,2025,5.99,Placed,Joined
+3,3,6.0,2025,7.19,Placed,Awaiting Joining
+4,4,2.0,2024,6.91,Placed,Joined
+5,5,10.0,2023,7.73,Placed,Offer Accepted
+6,6,2.0,2026,7.47,Placed,Joined
+7,7,3.0,2022,7.72,Placed,Awaiting Joining
+8,8,6.0,2026,8.34,Placed,Offer Accepted
+9,9,4.0,2023,9.13,Placed,Awaiting Joining
+10,10,1.0,2022,6.17,Placed,Joined
+11,11,7.0,2023,6.26,Placed,Awaiting Joining
+12,12,2.0,2026,6.28,Placed,Awaiting Joining
+13,13,,2025,,Not Placed,Preparing
+14,14,1.0,2023,7.52,Placed,Awaiting Joining
+15,15,7.0,2025,7.2,Placed,Awaiting Joining
+16,16,3.0,2022,9.55,Placed,Joined
+17,17,9.0,2026,4.79,Placed,Offer Accepted
+18,18,,2022,,Not Placed,Preparing
+19,19,,2024,,Not Placed,Preparing
+20,20,8.0,2023,14.13,Placed,Joined
+21,21,5.0,2025,7.45,Placed,Awaiting Joining
+22,22,6.0,2026,7.37,Placed,Awaiting Joining
+23,23,10.0,2026,6.56,Placed,Offer Accepted
+24,24,3.0,2025,8.5,Placed,Offer Accepted
+25,25,7.0,2025,5.63,Placed,Awaiting Joining
+26,26,9.0,2023,6.46,Placed,Offer Accepted
+27,27,9.0,2024,4.51,Placed,Joined
+28,28,8.0,2023,12.82,Placed,Offer Accepted
+29,29,1.0,2023,5.62,Placed,Offer Accepted
+30,30,1.0,2024,9.1,Placed,Offer Accepted
+31,31,10.0,2022,6.71,Placed,Awaiting Joining
+32,32,5.0,2025,10.53,Placed,Awaiting Joining
+33,33,,2024,,Not Placed,Preparing
+34,34,10.0,2024,6.94,Placed,Offer Accepted
+35,35,7.0,2026,6.56,Placed,Joined
+36,36,5.0,2026,8.26,Placed,Joined
+37,37,,2026,,Not Placed,Preparing
+38,38,,2025,,Not Placed,Preparing
+39,39,,2023,,Not Placed,Preparing
+40,40,2.0,2023,5.19,Placed,Offer Accepted
+41,41,5.0,2026,10.44,Placed,Joined
+42,42,6.0,2024,7.29,Placed,Joined
+43,43,8.0,2025,14.12,Placed,Offer Accepted
+44,44,,2022,,Not Placed,Preparing
+45,45,10.0,2023,7.44,Placed,Awaiting Joining
+46,46,8.0,2025,13.73,Placed,Awaiting Joining
+47,47,8.0,2024,16.09,Placed,Offer Accepted
+48,48,8.0,2025,16.47,Placed,Joined
+49,49,9.0,2024,5.64,Placed,Offer Accepted
+50,50,,2025,,Not Placed,Preparing
+51,51,8.0,2026,15.22,Placed,Offer Accepted
+52,52,,2024,,Not Placed,Preparing
+53,53,4.0,2025,7.96,Placed,Awaiting Joining
+54,54,6.0,2024,7.02,Placed,Offer Accepted
+55,55,9.0,2025,4.67,Placed,Offer Accepted
+56,56,3.0,2023,6.17,Placed,Joined
+57,57,10.0,2025,5.95,Placed,Offer Accepted
+58,58,2.0,2026,8.21,Placed,Offer Accepted
+59,59,,2023,,Not Placed,Preparing
+60,60,,2023,,Not Placed,Preparing
+61,61,9.0,2022,5.35,Placed,Awaiting Joining
+62,62,10.0,2022,6.48,Placed,Offer Accepted
+63,63,2.0,2023,5.79,Placed,Offer Accepted
+64,64,7.0,2026,8.0,Placed,Awaiting Joining
+65,65,4.0,2023,8.67,Placed,Awaiting Joining
+66,66,,2024,,Not Placed,Preparing
+67,67,10.0,2024,4.59,Placed,Joined
+68,68,4.0,2022,7.1,Placed,Awaiting Joining
+69,69,4.0,2022,7.5,Placed,Awaiting Joining
+70,70,,2024,,Not Placed,Preparing
+71,71,,2023,,Not Placed,Preparing
+72,72,8.0,2022,15.39,Placed,Awaiting Joining
+73,73,,2026,,Not Placed,Preparing
+74,74,3.0,2025,9.64,Placed,Offer Accepted
+75,75,10.0,2026,4.6,Placed,Awaiting Joining
+76,76,7.0,2024,5.19,Placed,Awaiting Joining
+77,77,4.0,2022,6.9,Placed,Offer Accepted
+78,78,10.0,2022,7.47,Placed,Joined
+79,79,8.0,2023,15.72,Placed,Offer Accepted
+80,80,,2024,,Not Placed,Preparing
+81,81,,2023,,Not Placed,Preparing
+82,82,,2022,,Not Placed,Preparing
+83,83,4.0,2025,8.33,Placed,Offer Accepted
+84,84,5.0,2026,10.14,Placed,Offer Accepted
+85,85,3.0,2024,9.08,Placed,Joined
+86,86,7.0,2024,8.08,Placed,Awaiting Joining
+87,87,,2023,,Not Placed,Preparing
+88,88,1.0,2022,5.84,Placed,Awaiting Joining
+89,89,5.0,2024,8.25,Placed,Joined
+90,90,2.0,2023,6.32,Placed,Awaiting Joining
+91,91,,2024,,Not Placed,Preparing
+92,92,8.0,2026,14.57,Placed,Awaiting Joining
+93,93,5.0,2023,8.05,Placed,Awaiting Joining
+94,94,10.0,2024,5.41,Placed,Joined
+95,95,6.0,2022,8.27,Placed,Offer Accepted
+96,96,3.0,2023,9.09,Placed,Awaiting Joining
+97,97,,2023,,Not Placed,Preparing
+98,98,8.0,2022,15.7,Placed,Offer Accepted
+99,99,,2023,,Not Placed,Preparing
+100,100,8.0,2024,15.9,Placed,Offer Accepted
+101,101,10.0,2026,7.34,Placed,Offer Accepted
+102,102,9.0,2025,4.99,Placed,Offer Accepted
+103,103,5.0,2026,10.23,Placed,Awaiting Joining
+104,104,,2026,,Not Placed,Preparing
+105,105,4.0,2024,6.52,Placed,Awaiting Joining
+106,106,5.0,2022,8.52,Placed,Awaiting Joining
+107,107,2.0,2025,8.13,Placed,Offer Accepted
+108,108,4.0,2024,6.27,Placed,Awaiting Joining
+109,109,6.0,2025,7.63,Placed,Joined
+110,110,8.0,2022,13.38,Placed,Awaiting Joining
+111,111,9.0,2026,7.63,Placed,Joined
+112,112,9.0,2025,5.96,Placed,Offer Accepted
+113,113,3.0,2024,8.92,Placed,Awaiting Joining
+114,114,,2026,,Not Placed,Preparing
+115,115,10.0,2022,4.53,Placed,Awaiting Joining
+116,116,6.0,2023,5.9,Placed,Joined
+117,117,7.0,2026,6.25,Placed,Offer Accepted
+118,118,6.0,2023,5.35,Placed,Awaiting Joining
+119,119,,2026,,Not Placed,Preparing
+120,120,8.0,2025,14.57,Placed,Awaiting Joining
+121,121,4.0,2026,7.5,Placed,Awaiting Joining
+122,122,2.0,2023,8.19,Placed,Awaiting Joining
+123,123,8.0,2023,15.31,Placed,Joined
+124,124,2.0,2024,6.59,Placed,Joined
+125,125,1.0,2025,5.66,Placed,Offer Accepted
+126,126,2.0,2026,7.2,Placed,Offer Accepted
+127,127,6.0,2022,6.46,Placed,Awaiting Joining
+128,128,8.0,2026,13.67,Placed,Awaiting Joining
+129,129,,2025,,Not Placed,Preparing
+130,130,7.0,2024,7.66,Placed,Awaiting Joining
+131,131,6.0,2023,5.96,Placed,Joined
+132,132,7.0,2026,8.38,Placed,Offer Accepted
+133,133,2.0,2022,7.71,Placed,Offer Accepted
+134,134,9.0,2025,6.46,Placed,Joined
+135,135,9.0,2024,6.32,Placed,Awaiting Joining
+136,136,,2022,,Not Placed,Preparing
+137,137,,2022,,Not Placed,Preparing
+138,138,4.0,2023,7.31,Placed,Offer Accepted
+139,139,7.0,2024,6.93,Placed,Offer Accepted
+140,140,7.0,2023,6.31,Placed,Offer Accepted
+141,141,8.0,2022,14.38,Placed,Offer Accepted
+142,142,6.0,2026,7.06,Placed,Joined
+143,143,7.0,2023,5.33,Placed,Joined
+144,144,1.0,2024,9.07,Placed,Awaiting Joining
+145,145,2.0,2026,6.13,Placed,Awaiting Joining
+146,146,5.0,2022,8.58,Placed,Awaiting Joining
+147,147,,2022,,Not Placed,Preparing
+148,148,2.0,2022,7.27,Placed,Joined
+149,149,2.0,2022,7.38,Placed,Joined
+150,150,4.0,2022,7.99,Placed,Joined
+151,151,5.0,2023,10.26,Placed,Awaiting Joining
+152,152,1.0,2025,9.05,Placed,Offer Accepted
+153,153,,2022,,Not Placed,Preparing
+154,154,2.0,2023,5.78,Placed,Offer Accepted
+155,155,,2022,,Not Placed,Preparing
+156,156,1.0,2022,7.2,Placed,Awaiting Joining
+157,157,,2022,,Not Placed,Preparing
+158,158,1.0,2026,8.93,Placed,Joined
+159,159,4.0,2023,6.17,Placed,Offer Accepted
+160,160,3.0,2024,8.7,Placed,Joined
+161,161,3.0,2022,6.9,Placed,Offer Accepted
+162,162,,2022,,Not Placed,Preparing
+163,163,7.0,2022,6.65,Placed,Awaiting Joining
+164,164,,2022,,Not Placed,Preparing
+165,165,,2022,,Not Placed,Preparing
+166,166,9.0,2022,6.02,Placed,Joined
+167,167,3.0,2025,6.1,Placed,Awaiting Joining
+168,168,4.0,2022,7.79,Placed,Offer Accepted
+169,169,1.0,2026,5.64,Placed,Joined
+170,170,,2024,,Not Placed,Preparing
+171,171,10.0,2024,7.49,Placed,Offer Accepted
+172,172,3.0,2024,7.26,Placed,Joined
+173,173,,2025,,Not Placed,Preparing
+174,174,10.0,2025,6.87,Placed,Awaiting Joining
+175,175,2.0,2024,5.88,Placed,Awaiting Joining
+176,176,8.0,2024,13.38,Placed,Offer Accepted
+177,177,7.0,2022,6.49,Placed,Awaiting Joining
+178,178,2.0,2024,4.93,Placed,Offer Accepted
+179,179,10.0,2025,4.96,Placed,Offer Accepted
+180,180,6.0,2026,8.26,Placed,Awaiting Joining

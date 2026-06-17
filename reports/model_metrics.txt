@@ -1,0 +1,8 @@
+Company-wise Placement Prediction Model Report
+==============================================
+Model: NumPy Logistic Regression - Student Company Fit
+Features: cgpa, internship_months, certifications, projects, aptitude_score, communication_score, min_cgpa, cgpa_gap, aptitude_gap, communication_gap, skill_match, company_package_lpa, selection_difficulty, openings, branch_match
+Accuracy: 0.8394
+Precision: 0.0
+Recall: 0.0
+Test Records: 137

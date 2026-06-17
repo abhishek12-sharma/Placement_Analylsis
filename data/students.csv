@@ -1,0 +1,181 @@
+student_id,name,branch,cgpa,internship_months,certifications,projects,aptitude_score,communication_score,placement_year
+1,Yash Verma,MCA,6.93,1,5,1,88,92,2024
+2,Simran Gupta,B.Sc CS,6.84,4,2,1,93,96,2025
+3,Vikas Joshi,MCA,8.04,3,0,5,63,85,2025
+4,Sahil Patel,B.Tech IT,6.62,2,1,6,62,89,2024
+5,Riya Singh,MCA,9.12,2,3,3,49,58,2023
+6,Simran Reddy,B.Tech CSE,7.63,4,3,3,59,53,2026
+7,Vikas Reddy,MCA,8.59,4,2,6,66,52,2022
+8,Karan Singh,BCA,9.62,4,0,5,65,76,2026
+9,Simran Joshi,BCA,8.51,4,1,3,78,83,2023
+10,Ananya Verma,B.Tech CSE,8.24,1,4,2,45,49,2022
+11,Dev Nair,B.Tech IT,8.98,3,1,1,51,87,2023
+12,Ananya Gupta,BCA,7.7,3,1,3,74,60,2026
+13,Nisha Kumar,B.Tech IT,6.81,3,0,2,69,45,2025
+14,Karan Gupta,B.Tech CSE,9.68,4,5,5,48,92,2023
+15,Riya Kapoor,BCA,6.46,4,1,5,83,47,2025
+16,Mohit Singh,MCA,7.74,4,0,1,79,58,2022
+17,Yash Reddy,MCA,7.14,6,0,2,61,52,2026
+18,Yash Kumar,B.Tech CSE,6.01,1,5,3,55,92,2022
+19,Kavya Mehta,MCA,7.39,0,2,2,88,60,2024
+20,Aditya Joshi,B.Tech IT,7.01,6,0,4,47,75,2023
+21,Pooja Mishra,B.Sc CS,8.58,4,2,1,52,61,2025
+22,Kavya Sharma,B.Sc CS,8.61,6,5,6,57,68,2026
+23,Sahil Bansal,B.Tech CSE,6.48,3,5,4,88,92,2026
+24,Tanvi Mishra,B.Tech CSE,7.68,6,1,5,75,95,2025
+25,Tanvi Kapoor,MCA,7.57,6,4,2,90,89,2025
+26,Mohit Sharma,B.Sc CS,9.49,0,3,2,96,74,2023
+27,Arjun Jain,BCA,7.67,6,2,2,62,66,2024
+28,Mohit Kumar,MCA,9.16,3,4,6,46,93,2023
+29,Aditya Mishra,B.Tech IT,9.19,1,4,5,46,70,2023
+30,Aditya Singh,B.Tech IT,8.86,3,2,1,75,46,2024
+31,Ananya Mehta,B.Tech IT,8.14,1,3,6,61,94,2022
+32,Dev Mishra,B.Tech IT,9.58,1,0,5,89,85,2025
+33,Pooja Verma,B.Sc CS,6.05,3,3,1,72,68,2024
+34,Neha Nair,B.Tech CSE,9.24,0,2,4,60,93,2024
+35,Vikas Singh,B.Tech CSE,8.66,2,4,1,78,57,2026
+36,Pooja Jain,B.Sc CS,7.31,6,4,3,67,89,2026
+37,Neha Nair,B.Sc CS,7.08,0,1,3,59,68,2026
+38,Meera Bansal,BCA,6.39,0,4,3,75,75,2025
+39,Dev Mishra,MCA,6.57,4,2,1,60,52,2023
+40,Tanvi Bansal,MCA,8.38,2,5,1,55,60,2023
+41,Ananya Malhotra,B.Tech CSE,8.51,1,3,1,79,59,2026
+42,Nikhil Patel,B.Tech IT,7.9,3,3,1,83,47,2024
+43,Nisha Jain,B.Sc CS,9.48,1,4,4,85,76,2025
+44,Simran Sharma,B.Tech IT,7.2,2,0,4,77,45,2022
+45,Rohan Patel,B.Sc CS,9.53,3,5,4,52,46,2023
+46,Mohit Verma,BCA,9.54,2,4,6,62,71,2025
+47,Kavya Singh,B.Sc CS,9.12,2,5,3,82,82,2024
+48,Kavya Sharma,B.Tech CSE,8.68,3,3,6,95,86,2025
+49,Karan Verma,B.Tech IT,7.29,6,3,6,50,66,2024
+50,Yash Bansal,MCA,6.63,2,0,1,65,95,2025
+51,Nisha Mehta,MCA,9.31,4,5,2,76,82,2026
+52,Meera Mishra,B.Tech IT,7.74,2,1,4,75,51,2024
+53,Neha Sharma,B.Sc CS,9.16,2,1,5,96,67,2025
+54,Neha Mehta,MCA,7.24,3,1,2,53,95,2024
+55,Karan Joshi,BCA,9.68,4,2,1,95,70,2025
+56,Aditya Malhotra,B.Sc CS,8.46,6,3,6,64,86,2023
+57,Neha Bansal,B.Sc CS,8.23,6,1,4,86,51,2025
+58,Sneha Mishra,B.Tech CSE,9.43,6,2,1,70,62,2026
+59,Karan Joshi,B.Sc CS,6.26,4,1,5,58,59,2023
+60,Nisha Verma,MCA,6.06,1,4,3,46,56,2023
+61,Pooja Reddy,B.Sc CS,7.72,1,4,1,91,95,2022
+62,Isha Bansal,B.Tech IT,9.42,2,4,2,49,53,2022
+63,Yash Malhotra,B.Sc CS,7.63,1,3,3,74,70,2023
+64,Neha Singh,BCA,6.23,4,4,3,87,52,2026
+65,Rohan Mehta,B.Tech IT,9.22,2,4,3,52,93,2023
+66,Meera Malhotra,B.Tech CSE,6.02,1,4,6,70,49,2024
+67,Aditya Mehta,B.Tech CSE,8.74,4,4,1,48,54,2024
+68,Sneha Singh,B.Tech IT,7.08,6,4,4,78,87,2022
+69,Vikas Patel,B.Tech CSE,6.03,6,3,2,53,69,2022
+70,Dev Kumar,B.Tech IT,6.44,0,2,2,96,84,2024
+71,Meera Bansal,B.Tech CSE,7.27,1,0,5,85,52,2023
+72,Nisha Nair,BCA,6.67,6,3,4,93,81,2022
+73,Dev Sharma,B.Tech CSE,6.28,3,3,1,48,68,2026
+74,Neha Malhotra,MCA,9.45,4,5,2,65,83,2025
+75,Mohit Jain,B.Sc CS,8.32,2,2,3,69,71,2026
+76,Tanvi Kapoor,BCA,6.31,6,1,3,64,86,2024
+77,Karan Mishra,B.Sc CS,8.45,3,4,3,46,68,2022
+78,Simran Kapoor,B.Sc CS,8.52,4,1,5,69,54,2022
+79,Mohit Gupta,B.Sc CS,7.18,3,1,3,88,81,2023
+80,Arjun Kapoor,MCA,6.32,1,2,4,77,54,2024
+81,Sahil Reddy,B.Tech CSE,7.47,0,2,2,46,65,2023
+82,Mohit Nair,MCA,6.07,1,1,5,91,83,2022
+83,Kavya Mishra,B.Sc CS,6.24,3,4,5,46,85,2025
+84,Arjun Reddy,B.Sc CS,8.11,3,3,1,85,69,2026
+85,Aditya Mehta,MCA,8.07,6,1,6,74,89,2024
+86,Vikas Sharma,BCA,7.36,0,5,3,62,52,2024
+87,Rahul Kumar,B.Sc CS,8.07,2,0,1,65,87,2023
+88,Vikas Mishra,MCA,8.55,3,2,5,96,92,2022
+89,Riya Jain,B.Tech CSE,7.69,0,4,2,78,68,2024
+90,Vikas Bansal,B.Tech IT,9.79,2,5,4,57,52,2023
+91,Nikhil Mishra,BCA,7.93,0,1,2,60,95,2024
+92,Sahil Bansal,B.Tech IT,7.56,3,4,1,53,65,2026
+93,Karan Patel,BCA,7.23,6,1,3,78,63,2023
+94,Riya Nair,B.Sc CS,9.2,4,0,1,50,47,2024
+95,Meera Jain,MCA,6.6,3,3,4,58,66,2022
+96,Vikas Jain,BCA,6.37,2,3,5,71,60,2023
+97,Sahil Reddy,B.Tech IT,6.82,2,0,1,63,76,2023
+98,Pooja Sharma,B.Tech IT,8.17,1,2,5,63,49,2022
+99,Simran Singh,BCA,8.29,3,4,1,47,47,2023
+100,Nisha Kumar,B.Sc CS,8.26,4,4,5,76,90,2024
+101,Vikas Mishra,B.Sc CS,6.86,0,4,4,55,78,2026
+102,Karan Kumar,BCA,7.91,4,3,6,91,48,2025
+103,Riya Mishra,B.Tech CSE,7.84,1,2,5,64,59,2026
+104,Meera Verma,B.Sc CS,7.44,3,2,2,63,47,2026
+105,Rohan Kapoor,B.Sc CS,9.55,6,2,2,51,84,2024
+106,Riya Joshi,BCA,9.67,1,3,6,75,75,2022
+107,Priya Kapoor,B.Tech IT,6.71,6,2,1,45,64,2025
+108,Nisha Bansal,B.Tech IT,8.73,0,5,3,95,63,2024
+109,Vikas Kumar,BCA,8.86,2,2,5,91,81,2025
+110,Nikhil Joshi,B.Tech CSE,8.43,2,2,5,59,59,2022
+111,Tanvi Kapoor,MCA,7.7,6,2,1,81,52,2026
+112,Isha Verma,B.Sc CS,9.07,3,1,5,71,74,2025
+113,Rahul Sharma,B.Tech IT,8.66,4,0,1,75,47,2024
+114,Pooja Verma,BCA,7.49,1,5,2,45,93,2026
+115,Vikas Gupta,MCA,9.08,3,4,1,60,58,2022
+116,Rohan Joshi,MCA,7.91,2,1,6,81,65,2023
+117,Yash Mishra,B.Tech IT,7.88,2,5,6,69,95,2026
+118,Kavya Reddy,B.Sc CS,7.48,2,1,3,86,50,2023
+119,Rohan Joshi,B.Sc CS,6.82,1,2,3,45,58,2026
+120,Aditya Joshi,B.Tech CSE,7.77,6,2,3,61,68,2025
+121,Simran Malhotra,B.Sc CS,8.74,2,1,2,66,59,2026
+122,Neha Reddy,B.Tech IT,9.48,4,5,1,78,47,2023
+123,Nikhil Mehta,MCA,7.92,2,0,5,85,87,2023
+124,Neha Patel,B.Sc CS,6.07,6,5,4,96,56,2024
+125,Rahul Singh,B.Tech IT,8.15,6,1,3,88,50,2025
+126,Dev Kapoor,MCA,9.49,1,1,6,81,75,2026
+127,Nikhil Kapoor,B.Tech IT,7.14,4,1,5,69,88,2022
+128,Aditya Nair,B.Sc CS,7.51,2,0,6,62,95,2026
+129,Sahil Bansal,BCA,7.2,0,0,1,64,73,2025
+130,Sneha Sharma,MCA,8.11,4,4,3,69,45,2024
+131,Meera Patel,B.Tech IT,6.24,3,2,4,64,75,2023
+132,Mohit Singh,B.Tech IT,6.52,2,4,6,57,75,2026
+133,Nisha Mishra,B.Sc CS,9.62,3,5,2,73,96,2022
+134,Tanvi Jain,B.Sc CS,8.03,6,3,5,47,95,2025
+135,Dev Mishra,B.Tech IT,9.67,3,0,1,51,61,2024
+136,Arjun Mehta,B.Tech CSE,7.83,2,3,1,52,91,2022
+137,Nikhil Jain,B.Tech CSE,7.14,6,0,1,66,86,2022
+138,Mohit Gupta,B.Tech IT,6.71,6,3,4,46,92,2023
+139,Rohan Jain,MCA,8.55,3,4,6,65,83,2024
+140,Ananya Patel,MCA,7.42,1,4,4,71,83,2023
+141,Tanvi Sharma,B.Tech CSE,7.84,1,3,5,77,86,2022
+142,Mohit Nair,B.Tech IT,7.94,4,0,3,94,79,2026
+143,Mohit Kapoor,MCA,6.8,6,4,6,67,90,2023
+144,Aditya Bansal,B.Tech CSE,8.18,4,5,1,53,93,2024
+145,Sahil Jain,BCA,8.4,6,3,4,73,49,2026
+146,Mohit Mishra,B.Tech CSE,9.02,3,1,4,58,76,2022
+147,Yash Joshi,B.Tech IT,6.47,1,3,4,45,72,2022
+148,Pooja Mishra,BCA,7.51,2,5,6,93,59,2022
+149,Aarav Sharma,B.Tech CSE,9.75,3,5,2,75,49,2022
+150,Karan Mishra,BCA,8.02,0,4,6,55,73,2022
+151,Kavya Singh,BCA,7.05,0,1,5,83,83,2023
+152,Yash Sharma,BCA,7.47,1,3,6,83,49,2025
+153,Rahul Sharma,B.Sc CS,6.05,1,0,1,95,70,2022
+154,Arjun Malhotra,BCA,8.04,3,4,6,93,86,2023
+155,Priya Patel,BCA,6.05,1,5,1,55,76,2022
+156,Kavya Patel,B.Sc CS,7.0,4,5,1,76,74,2022
+157,Sneha Gupta,B.Sc CS,6.17,0,1,1,75,68,2022
+158,Aditya Patel,MCA,7.42,4,5,1,56,59,2026
+159,Meera Bansal,B.Sc CS,7.76,4,3,2,91,79,2023
+160,Aditya Sharma,B.Tech IT,6.4,4,1,4,76,48,2024
+161,Neha Verma,B.Sc CS,7.92,6,3,1,82,81,2022
+162,Dev Verma,BCA,6.62,3,2,4,52,79,2022
+163,Meera Kapoor,B.Sc CS,6.82,2,1,1,90,60,2022
+164,Mohit Verma,BCA,6.05,1,1,2,70,68,2022
+165,Yash Jain,BCA,9.44,2,0,1,74,48,2022
+166,Mohit Malhotra,BCA,8.33,4,1,6,63,76,2022
+167,Aarav Kumar,B.Tech CSE,8.07,3,2,5,77,65,2025
+168,Dev Gupta,BCA,6.94,1,2,5,95,92,2022
+169,Nikhil Bansal,B.Tech CSE,8.14,4,1,4,79,64,2026
+170,Aditya Bansal,BCA,6.23,1,4,6,54,94,2024
+171,Neha Kumar,B.Tech IT,6.66,4,5,5,95,67,2024
+172,Priya Mehta,B.Sc CS,9.5,4,1,6,81,51,2024
+173,Neha Malhotra,B.Tech CSE,6.04,1,1,6,49,67,2025
+174,Nisha Malhotra,B.Tech IT,9.35,2,4,4,51,75,2025
+175,Vikas Verma,MCA,6.65,3,1,6,49,80,2024
+176,Nikhil Reddy,B.Sc CS,8.51,2,1,1,48,70,2024
+177,Isha Gupta,MCA,6.79,6,2,1,75,52,2022
+178,Vikas Jain,B.Tech IT,6.86,2,4,1,54,93,2024
+179,Isha Patel,MCA,9.43,6,0,5,81,78,2025
+180,Kavya Gupta,BCA,6.98,6,0,1,69,80,2026

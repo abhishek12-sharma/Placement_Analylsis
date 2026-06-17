@@ -1,0 +1,181 @@
+student_id,name,branch,cgpa,internship_months,certifications,projects,aptitude_score,communication_score,status,package_lpa,readiness_score,readiness_category
+1,Yash Verma,MCA,6.93,1,5,1,88,92,Placed,6.84,108.07,Placement Ready
+2,Simran Gupta,B.Sc CS,6.84,4,2,1,93,96,Placed,5.99,111.98,High Potential
+3,Vikas Joshi,MCA,8.04,3,0,5,63,85,Placed,7.19,116.22,High Potential
+4,Sahil Patel,B.Tech IT,6.62,2,1,6,62,89,Placed,6.91,109.74,Placement Ready
+5,Riya Singh,MCA,9.12,2,3,3,49,58,Placed,7.73,115.94,High Potential
+6,Simran Reddy,B.Tech CSE,7.63,4,3,3,59,53,Placed,7.47,116.51,High Potential
+7,Vikas Reddy,MCA,8.59,4,2,6,66,52,Placed,7.72,132.33,High Potential
+8,Karan Singh,BCA,9.62,4,0,5,65,76,Placed,8.34,131.2,High Potential
+9,Simran Joshi,BCA,8.51,4,1,3,78,83,Placed,9.13,122.89,High Potential
+10,Ananya Verma,B.Tech CSE,8.24,1,4,2,45,49,Placed,6.17,102.62,Placement Ready
+11,Dev Nair,B.Tech IT,8.98,3,1,1,51,87,Placed,6.26,108.96,Placement Ready
+12,Ananya Gupta,BCA,7.7,3,1,3,74,60,Placed,6.28,107.82,Placement Ready
+13,Nisha Kumar,B.Tech IT,6.81,3,0,2,69,45,Not Placed,,90.29,Placement Ready
+14,Karan Gupta,B.Tech CSE,9.68,4,5,5,48,92,Placed,7.52,151.12,High Potential
+15,Riya Kapoor,BCA,6.46,4,1,5,83,47,Placed,7.2,111.68,High Potential
+16,Mohit Singh,MCA,7.74,4,0,1,79,58,Placed,9.55,101.68,Placement Ready
+17,Yash Reddy,MCA,7.14,6,0,2,61,52,Placed,4.79,107.28,Placement Ready
+18,Yash Kumar,B.Tech CSE,6.01,1,5,3,55,92,Not Placed,,103.69,Placement Ready
+19,Kavya Mehta,MCA,7.39,0,2,2,88,60,Not Placed,,93.17,Placement Ready
+20,Aditya Joshi,B.Tech IT,7.01,6,0,4,47,75,Placed,14.13,115.53,High Potential
+21,Pooja Mishra,B.Sc CS,8.58,4,2,1,52,61,Placed,7.45,111.18,High Potential
+22,Kavya Sharma,B.Sc CS,8.61,6,5,6,57,68,Placed,7.37,155.41,High Potential
+23,Sahil Bansal,B.Tech CSE,6.48,3,5,4,88,92,Placed,6.56,126.92,High Potential
+24,Tanvi Mishra,B.Tech CSE,7.68,6,1,5,75,95,Placed,8.5,136.46,High Potential
+25,Tanvi Kapoor,MCA,7.57,6,4,2,90,89,Placed,5.63,137.43,High Potential
+26,Mohit Sharma,B.Sc CS,9.49,0,3,2,96,74,Placed,6.46,115.55,High Potential
+27,Arjun Jain,BCA,7.67,6,2,2,62,66,Placed,4.51,121.41,High Potential
+28,Mohit Kumar,MCA,9.16,3,4,6,46,93,Placed,12.82,142.28,High Potential
+29,Aditya Mishra,B.Tech IT,9.19,1,4,5,46,70,Placed,5.62,124.81,High Potential
+30,Aditya Singh,B.Tech IT,8.86,3,2,1,75,46,Placed,9.1,109.88,Placement Ready
+31,Ananya Mehta,B.Tech IT,8.14,1,3,6,61,94,Placed,6.71,124.0,High Potential
+32,Dev Mishra,B.Tech IT,9.58,1,0,5,89,85,Placed,10.53,121.68,High Potential
+33,Pooja Verma,B.Sc CS,6.05,3,3,1,72,68,Not Placed,,97.19,Placement Ready
+34,Neha Nair,B.Tech CSE,9.24,0,2,4,60,93,Placed,6.94,114.36,High Potential
+35,Vikas Singh,B.Tech CSE,8.66,2,4,1,78,57,Placed,6.56,113.78,High Potential
+36,Pooja Jain,B.Sc CS,7.31,6,4,3,67,89,Placed,8.26,135.47,High Potential
+37,Neha Nair,B.Sc CS,7.08,0,1,3,59,68,Not Placed,,87.06,Needs Training
+38,Meera Bansal,BCA,6.39,0,4,3,75,75,Not Placed,,98.23,Placement Ready
+39,Dev Mishra,MCA,6.57,4,2,1,60,52,Not Placed,,97.11,Placement Ready
+40,Tanvi Bansal,MCA,8.38,2,5,1,55,60,Placed,5.19,112.16,High Potential
+41,Ananya Malhotra,B.Tech CSE,8.51,1,3,1,79,59,Placed,10.44,104.23,Placement Ready
+42,Nikhil Patel,B.Tech IT,7.9,3,3,1,83,47,Placed,7.29,108.76,Placement Ready
+43,Nisha Jain,B.Sc CS,9.48,1,4,4,85,76,Placed,14.12,130.82,High Potential
+44,Simran Sharma,B.Tech IT,7.2,2,0,4,77,45,Not Placed,,97.46,Placement Ready
+45,Rohan Patel,B.Sc CS,9.53,3,5,4,52,46,Placed,7.44,134.43,High Potential
+46,Mohit Verma,BCA,9.54,2,4,6,62,71,Placed,13.73,139.3,High Potential
+47,Kavya Singh,B.Sc CS,9.12,2,5,3,82,82,Placed,16.09,133.72,High Potential
+48,Kavya Sharma,B.Tech CSE,8.68,3,3,6,95,86,Placed,16.47,142.62,High Potential
+49,Karan Verma,B.Tech IT,7.29,6,3,6,50,66,Placed,5.64,136.59,High Potential
+50,Yash Bansal,MCA,6.63,2,0,1,65,95,Not Placed,,87.31,Needs Training
+51,Nisha Mehta,MCA,9.31,4,5,2,76,82,Placed,15.22,139.97,High Potential
+52,Meera Mishra,B.Tech IT,7.74,2,1,4,75,51,Not Placed,,105.84,Placement Ready
+53,Neha Sharma,B.Sc CS,9.16,2,1,5,96,67,Placed,7.96,126.12,High Potential
+54,Neha Mehta,MCA,7.24,3,1,2,53,95,Placed,7.02,102.42,Placement Ready
+55,Karan Joshi,BCA,9.68,4,2,1,95,70,Placed,4.67,128.06,High Potential
+56,Aditya Malhotra,B.Sc CS,8.46,6,3,6,64,86,Placed,6.17,150.5,High Potential
+57,Neha Bansal,B.Sc CS,8.23,6,1,4,86,51,Placed,5.95,131.25,High Potential
+58,Sneha Mishra,B.Tech CSE,9.43,6,2,1,70,62,Placed,8.21,130.53,High Potential
+59,Karan Joshi,B.Sc CS,6.26,4,1,5,58,59,Not Placed,,107.7,Placement Ready
+60,Nisha Verma,MCA,6.06,1,4,3,46,56,Not Placed,,92.66,Placement Ready
+61,Pooja Reddy,B.Sc CS,7.72,1,4,1,91,95,Placed,5.35,110.62,High Potential
+62,Isha Bansal,B.Tech IT,9.42,2,4,2,49,53,Placed,6.48,117.24,High Potential
+63,Yash Malhotra,B.Sc CS,7.63,1,3,3,74,70,Placed,5.79,106.93,Placement Ready
+64,Neha Singh,BCA,6.23,4,4,3,87,52,Placed,8.0,115.59,High Potential
+65,Rohan Mehta,B.Tech IT,9.22,2,4,3,52,93,Placed,8.67,126.78,High Potential
+66,Meera Malhotra,B.Tech CSE,6.02,1,4,6,70,49,Not Placed,,107.58,Placement Ready
+67,Aditya Mehta,B.Tech CSE,8.74,4,4,1,48,54,Placed,4.59,118.46,High Potential
+68,Sneha Singh,B.Tech IT,7.08,6,4,4,78,87,Placed,7.1,139.52,High Potential
+69,Vikas Patel,B.Tech CSE,6.03,6,3,2,53,69,Placed,7.5,112.79,High Potential
+70,Dev Kumar,B.Tech IT,6.44,0,2,2,96,84,Not Placed,,91.8,Placement Ready
+71,Meera Bansal,B.Tech CSE,7.27,1,0,5,85,52,Not Placed,,99.51,Placement Ready
+72,Nisha Nair,BCA,6.67,6,3,4,93,81,Placed,15.39,134.39,High Potential
+73,Dev Sharma,B.Tech CSE,6.28,3,3,1,48,68,Not Placed,,94.48,Placement Ready
+74,Neha Malhotra,MCA,9.45,4,5,2,65,83,Placed,9.64,139.13,High Potential
+75,Mohit Jain,B.Sc CS,8.32,2,2,3,69,71,Placed,4.6,112.02,High Potential
+76,Tanvi Kapoor,BCA,6.31,6,1,3,64,86,Placed,5.19,115.45,High Potential
+77,Karan Mishra,B.Sc CS,8.45,3,4,3,46,68,Placed,6.9,121.31,High Potential
+78,Simran Kapoor,B.Sc CS,8.52,4,1,5,69,54,Placed,7.47,124.7,High Potential
+79,Mohit Gupta,B.Sc CS,7.18,3,1,3,88,81,Placed,15.72,110.06,High Potential
+80,Arjun Kapoor,MCA,6.32,1,2,4,77,54,Not Placed,,95.74,Placement Ready
+81,Sahil Reddy,B.Tech CSE,7.47,0,2,2,46,65,Not Placed,,86.97,Needs Training
+82,Mohit Nair,MCA,6.07,1,1,5,91,83,Not Placed,,101.15,Placement Ready
+83,Kavya Mishra,B.Sc CS,6.24,3,4,5,46,85,Placed,8.33,116.56,High Potential
+84,Arjun Reddy,B.Sc CS,8.11,3,3,1,85,69,Placed,10.14,114.11,High Potential
+85,Aditya Mehta,MCA,8.07,6,1,6,74,89,Placed,9.08,142.05,High Potential
+86,Vikas Sharma,BCA,7.36,0,5,3,62,52,Placed,8.08,103.0,Placement Ready
+87,Rahul Kumar,B.Sc CS,8.07,2,0,1,65,87,Not Placed,,96.11,Placement Ready
+88,Vikas Mishra,MCA,8.55,3,2,5,96,92,Placed,5.84,134.85,High Potential
+89,Riya Jain,B.Tech CSE,7.69,0,4,2,78,68,Placed,8.25,102.75,Placement Ready
+90,Vikas Bansal,B.Tech IT,9.79,2,5,4,57,52,Placed,6.32,133.11,High Potential
+91,Nikhil Mishra,BCA,7.93,0,1,2,60,95,Not Placed,,93.51,Placement Ready
+92,Sahil Bansal,B.Tech IT,7.56,3,4,1,53,65,Placed,14.57,107.86,Placement Ready
+93,Karan Patel,BCA,7.23,6,1,3,78,63,Placed,8.05,120.73,High Potential
+94,Riya Nair,B.Sc CS,9.2,4,0,1,50,47,Placed,5.41,104.92,Placement Ready
+95,Meera Jain,MCA,6.6,3,3,4,58,66,Placed,8.27,110.2,High Potential
+96,Vikas Jain,BCA,6.37,2,3,5,71,60,Placed,9.09,108.97,Placement Ready
+97,Sahil Reddy,B.Tech IT,6.82,2,0,1,63,76,Not Placed,,85.24,Needs Training
+98,Pooja Sharma,B.Tech IT,8.17,1,2,5,63,49,Placed,15.7,109.37,Placement Ready
+99,Simran Singh,BCA,8.29,3,4,1,47,47,Not Placed,,109.01,Placement Ready
+100,Nisha Kumar,B.Sc CS,8.26,4,4,5,76,90,Placed,15.9,141.9,High Potential
+101,Vikas Mishra,B.Sc CS,6.86,0,4,4,55,78,Placed,7.34,102.4,Placement Ready
+102,Karan Kumar,BCA,7.91,4,3,6,91,48,Placed,4.99,135.43,High Potential
+103,Riya Mishra,B.Tech CSE,7.84,1,2,5,64,59,Placed,10.23,108.84,Placement Ready
+104,Meera Verma,B.Sc CS,7.44,3,2,2,63,47,Not Placed,,101.94,Placement Ready
+105,Rohan Kapoor,B.Sc CS,9.55,6,2,2,51,84,Placed,6.52,135.47,High Potential
+106,Riya Joshi,BCA,9.67,1,3,6,75,75,Placed,8.52,134.19,High Potential
+107,Priya Kapoor,B.Tech IT,6.71,6,2,1,45,64,Placed,8.13,107.31,Placement Ready
+108,Nisha Bansal,B.Tech IT,8.73,0,5,3,95,63,Placed,6.27,120.29,High Potential
+109,Vikas Kumar,BCA,8.86,2,2,5,91,81,Placed,7.63,129.36,High Potential
+110,Nikhil Joshi,B.Tech CSE,8.43,2,2,5,59,59,Placed,13.38,117.07,High Potential
+111,Tanvi Kapoor,MCA,7.7,6,2,1,81,52,Placed,7.63,118.8,High Potential
+112,Isha Verma,B.Sc CS,9.07,3,1,5,71,74,Placed,5.96,127.11,High Potential
+113,Rahul Sharma,B.Tech IT,8.66,4,0,1,75,47,Placed,8.92,105.64,Placement Ready
+114,Pooja Verma,BCA,7.49,1,5,2,45,93,Not Placed,,108.41,Placement Ready
+115,Vikas Gupta,MCA,9.08,3,4,1,60,58,Placed,4.53,118.64,High Potential
+116,Rohan Joshi,MCA,7.91,2,1,6,81,65,Placed,5.9,118.35,High Potential
+117,Yash Mishra,B.Tech IT,7.88,2,5,6,69,95,Placed,6.25,136.78,High Potential
+118,Kavya Reddy,B.Sc CS,7.48,2,1,3,86,50,Placed,5.35,101.84,Placement Ready
+119,Rohan Joshi,B.Sc CS,6.82,1,2,3,45,58,Not Placed,,90.12,Placement Ready
+120,Aditya Joshi,B.Tech CSE,7.77,6,2,3,61,68,Placed,14.57,126.25,High Potential
+121,Simran Malhotra,B.Sc CS,8.74,2,1,2,66,59,Placed,7.5,104.5,Placement Ready
+122,Neha Reddy,B.Tech IT,9.48,4,5,1,78,47,Placed,8.19,131.92,High Potential
+123,Nikhil Mehta,MCA,7.92,2,0,5,85,87,Placed,15.31,114.66,High Potential
+124,Neha Patel,B.Sc CS,6.07,6,5,4,96,56,Placed,6.59,134.73,High Potential
+125,Rahul Singh,B.Tech IT,8.15,6,1,3,88,50,Placed,5.66,126.89,High Potential
+126,Dev Kapoor,MCA,9.49,1,1,6,81,75,Placed,7.2,126.01,High Potential
+127,Nikhil Kapoor,B.Tech IT,7.14,4,1,5,69,88,Placed,6.46,120.48,High Potential
+128,Aditya Nair,B.Sc CS,7.51,2,0,6,62,95,Placed,13.67,112.93,High Potential
+129,Sahil Bansal,BCA,7.2,0,0,1,64,73,Not Placed,,77.6,Needs Training
+130,Sneha Sharma,MCA,8.11,4,4,3,69,45,Placed,7.66,124.39,High Potential
+131,Meera Patel,B.Tech IT,6.24,3,2,4,64,75,Placed,5.96,106.2,Placement Ready
+132,Mohit Singh,B.Tech IT,6.52,2,4,6,57,75,Placed,8.38,117.9,High Potential
+133,Nisha Mishra,B.Sc CS,9.62,3,5,2,73,96,Placed,7.71,138.84,High Potential
+134,Tanvi Jain,B.Sc CS,8.03,6,3,5,47,95,Placed,6.46,141.87,High Potential
+135,Dev Mishra,B.Tech IT,9.67,3,0,1,51,61,Placed,6.32,105.63,Placement Ready
+136,Arjun Mehta,B.Tech CSE,7.83,2,3,1,52,91,Not Placed,,104.73,Placement Ready
+137,Nikhil Jain,B.Tech CSE,7.14,6,0,1,66,86,Not Placed,,109.62,Placement Ready
+138,Mohit Gupta,B.Tech IT,6.71,6,3,4,46,92,Placed,7.31,127.97,High Potential
+139,Rohan Jain,MCA,8.55,3,4,6,65,83,Placed,6.93,139.83,High Potential
+140,Ananya Patel,MCA,7.42,1,4,4,71,83,Placed,6.31,115.0,High Potential
+141,Tanvi Sharma,B.Tech CSE,7.84,1,3,5,77,86,Placed,14.38,119.5,High Potential
+142,Mohit Nair,B.Tech IT,7.94,4,0,3,94,79,Placed,7.06,117.14,High Potential
+143,Mohit Kapoor,MCA,6.8,6,4,6,67,90,Placed,5.33,144.06,High Potential
+144,Aditya Bansal,B.Tech CSE,8.18,4,5,1,53,93,Placed,9.07,125.68,High Potential
+145,Sahil Jain,BCA,8.4,6,3,4,73,49,Placed,6.13,137.78,High Potential
+146,Mohit Mishra,B.Tech CSE,9.02,3,1,4,58,76,Placed,8.58,120.74,High Potential
+147,Yash Joshi,B.Tech IT,6.47,1,3,4,45,72,Not Placed,,97.91,Placement Ready
+148,Pooja Mishra,BCA,7.51,2,5,6,93,59,Placed,7.27,132.75,High Potential
+149,Aarav Sharma,B.Tech CSE,9.75,3,5,2,75,49,Placed,7.38,132.59,High Potential
+150,Karan Mishra,BCA,8.02,0,4,6,55,73,Placed,7.99,117.72,High Potential
+151,Kavya Singh,BCA,7.05,0,1,5,83,83,Placed,10.26,101.57,Placement Ready
+152,Yash Sharma,BCA,7.47,1,3,6,83,49,Placed,9.05,116.07,High Potential
+153,Rahul Sharma,B.Sc CS,6.05,1,0,1,95,70,Not Placed,,79.65,Needs Training
+154,Arjun Malhotra,BCA,8.04,3,4,6,93,86,Placed,5.78,141.78,High Potential
+155,Priya Patel,BCA,6.05,1,5,1,55,76,Not Placed,,93.41,Placement Ready
+156,Kavya Patel,B.Sc CS,7.0,4,5,1,76,74,Placed,7.2,118.52,High Potential
+157,Sneha Gupta,B.Sc CS,6.17,0,1,1,75,68,Not Placed,,75.57,Needs Training
+158,Aditya Patel,MCA,7.42,4,5,1,56,59,Placed,8.93,115.46,High Potential
+159,Meera Bansal,B.Sc CS,7.76,4,3,2,91,79,Placed,6.17,123.34,High Potential
+160,Aditya Sharma,B.Tech IT,6.4,4,1,4,76,48,Placed,8.7,106.16,Placement Ready
+161,Neha Verma,B.Sc CS,7.92,6,3,1,82,81,Placed,6.9,129.16,High Potential
+162,Dev Verma,BCA,6.62,3,2,4,52,79,Not Placed,,107.34,Placement Ready
+163,Meera Kapoor,B.Sc CS,6.82,2,1,1,90,60,Placed,6.65,91.54,Placement Ready
+164,Mohit Verma,BCA,6.05,1,1,2,70,68,Not Placed,,82.83,Needs Training
+165,Yash Jain,BCA,9.44,2,0,1,74,48,Not Placed,,101.08,Placement Ready
+166,Mohit Malhotra,BCA,8.33,4,1,6,63,76,Placed,6.02,129.81,High Potential
+167,Aarav Kumar,B.Tech CSE,8.07,3,2,5,77,65,Placed,6.1,123.75,High Potential
+168,Dev Gupta,BCA,6.94,1,2,5,95,92,Placed,7.79,113.4,High Potential
+169,Nikhil Bansal,B.Tech CSE,8.14,4,1,4,79,64,Placed,5.64,121.44,High Potential
+170,Aditya Bansal,BCA,6.23,1,4,6,54,94,Not Placed,,113.37,High Potential
+171,Neha Kumar,B.Tech IT,6.66,4,5,5,95,67,Placed,7.49,134.44,High Potential
+172,Priya Mehta,B.Sc CS,9.5,4,1,6,81,51,Placed,7.26,137.24,High Potential
+173,Neha Malhotra,B.Tech CSE,6.04,1,1,6,49,67,Not Placed,,94.82,Placement Ready
+174,Nisha Malhotra,B.Tech IT,9.35,2,4,4,51,75,Placed,6.87,128.63,High Potential
+175,Vikas Verma,MCA,6.65,3,1,6,49,80,Placed,5.88,111.17,High Potential
+176,Nikhil Reddy,B.Sc CS,8.51,2,1,1,48,70,Placed,13.38,97.41,Placement Ready
+177,Isha Gupta,MCA,6.79,6,2,1,75,52,Placed,6.49,111.35,High Potential
+178,Vikas Jain,B.Tech IT,6.86,2,4,1,54,93,Placed,4.93,102.62,Placement Ready
+179,Isha Patel,MCA,9.43,6,0,5,81,78,Placed,4.96,143.07,High Potential
+180,Kavya Gupta,BCA,6.98,6,0,1,69,80,Placed,8.26,108.08,Placement Ready
